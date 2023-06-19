@@ -1,0 +1,23 @@
+table,td,th {
+    border: 1px solid red;
+    border-collapse: collapse;
+}
+
+th,td {
+    padding: 12px;
+}
+
+button {
+    padding: 10px;
+    background: blue;
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    
+}
